@@ -46,6 +46,12 @@ Gitコミットしてからの差分を見る場合は、
 
 On branch master　←マスターブランチ使っとるよ
 Your branch is ahead of 'origin/master' by 4 commits.　←githubにプッシュされてからローカルリポジトリは4つコミットされてるよ
+nothing to commit, working tree clean　←commitするものはないよ。ワーキングツリーはきれいだよ。
+
+Changes not staged for commit:　←ステージにあげられていない変更があるよ
+
+
+
 
 
 

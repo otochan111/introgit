@@ -49,6 +49,8 @@ Your branch is ahead of 'origin/master' by 4 commits.　←githubにプッシュ
 nothing to commit, working tree clean　←commitするものはないよ。ワーキングツリーはきれいだよ。
 
 Changes not staged for commit:　←ステージにあげられていない変更があるよ
+Changes to be committed: ←commitすべき変更があるよ
+
 
 
 

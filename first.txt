@@ -51,6 +51,22 @@ nothing to commit, working tree clean　←commitするものはないよ。ワ�
 Changes not staged for commit:　←ステージにあげられていない変更があるよ
 Changes to be committed: ←commitすべき変更があるよ
 
+gitの変更履歴を見る場合は
+　git log
+を使う。
+これでリポジトリにコミットされたログが確認できる。
+
+差分を見る場合は
+　git diff
+を使う。
+git diff はステージとの差分
+git diff HEADはステージと最新コミットとの差分
+
+
+
+
+
+
 
 
 
